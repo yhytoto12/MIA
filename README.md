@@ -54,10 +54,6 @@ python runner/run_celeba.py MIA
 
 As with synthetic experiments, you can substitute `MIA` with other method names to run baseline experiments.
 
-## Results
-
-After running the experiments, results will be stored in the `results/` directory. Each experiment will generate logs, model checkpoints, and performance metrics. You can visualize these results using the provided visualization scripts or by using your preferred data analysis tools.
-
 ## Citation
 
 If you find our work useful in your research, please consider citing our paper:
