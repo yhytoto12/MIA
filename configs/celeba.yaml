@@ -1,0 +1,14 @@
+name: celeba
+path: ./datasets/celeba
+meta_test_path: ./datasets/celeba/meta-test
+img_size: 32
+modality:
+  rgb:
+    dim_in: 2
+    dim_out: 3
+  normal:
+    dim_in: 2
+    dim_out: 3
+  sketch:
+    dim_in: 2
+    dim_out: 3

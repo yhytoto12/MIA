@@ -1,0 +1,17 @@
+name: synthetic
+path: ./datasets/synthetic
+meta_test_path: ./datasets/synthetic/meta-test
+use_jitter: true
+modality:
+  sine:
+    dim_in: 1
+    dim_out: 1
+  tanh:
+    dim_in: 1
+    dim_out: 1
+  gaussian:
+    dim_in: 1
+    dim_out: 1
+  relu:
+    dim_in: 1
+    dim_out: 1
